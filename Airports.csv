@@ -1,0 +1,335 @@
+AIRPORT,ICAO,COUNTRY,TERMINAL,PORTNAM,LONGITUD,LATITUDE
+1XJ ,EGDX,EG,    ,ST ATHAN                                ,W003260800  ,N51241700   
+AAL ,EKYT,EK,    ,AALBORG                                 ,E009505699  ,N57053404   
+AAN ,OMAL,OM,    ,AL AIN INTL                             ,E055363300  ,N24154200   
+ABA ,UNAA,U ,    ,ABAKAN                                  ,E091230600  ,N53443000   
+ADB ,LTBJ,LT,    ,"IZMIR,ADNAN MENDERES                    ",E027091800  ,N38172100   
+AER ,URSS,U ,    ,SOCHI                                   ,E039565400  ,N43264200   
+AFT ,AGAF,AG,    ,AFUTARA                                 ,E160565400  ,S09110600   
+AKH ,OEPS,OE,    ,AL  KHARJ PRINCE SULTAN AIRBASE         ,E047334353  ,N24041355   
+AKX ,UATT,UA,    ,AKTYUBINSK                              ,E057122400  ,N50144500   
+ALA ,UAAA,UA,    ,ALMATY                                  ,E077024100  ,N43211900   
+ALV ,LPAR,LP,    ,ALVERCA                                 ,W009014200  ,N38530600   
+AMM ,OJAI,OJ,    ,"AMMAN,QUEEN ALIA INTL                   ",E035593557  ,N31432120   
+AMS ,EHAM,EH,3,"AMSTERDAM,SCHIPHOL                      ",E004455100  ,N52182900   
+ANR ,EBAW,EB,    ,"ANTWERP,DEURNE                          ",E004273743  ,N51112205   
+ARN ,ESSA,ES,    ,"STOCKHOLM,ARLANDA                       ",E017550700  ,N59390700   
+ASB ,UTAA,UN,    ,ASHGABAT                                ,E058214800  ,N37593000   
+ASE ,KASE,K ,    ,ASPEN  PITKIN CO  SARDYCO               ,W106520790  ,N39132340   
+ASF ,URWA,U ,    ,ASTRAKHAN                               ,E048002300  ,N46170000   
+ATH ,LGAV,LG,    ,"ATHENS, VENIZELOS INTL                  ",E023564020  ,N37561212   
+ATL ,KATL,K ,    ,"ATLANTA, THE HARTSFIELD INTL,GA         ",W084254104  ,N33381219   
+ATQ ,VIAR,V ,    ,AMRITSAR                                ,E074480750  ,N31421600   
+AUH ,OMAA,OM,    ,ABU DHABI INTL                          ,E054390400  ,N24255900   
+AYT ,LTAI,LT,    ,ANTALYA                                 ,E030473400  ,N36540100   
+BAK ,KBAK,K ,    ,COLUMBUS MUNI                           ,W085534680  ,N39154290   
+BAX ,UNBB,U ,    ,BARNAUL                                 ,E083322400  ,N53214800   
+BCN ,LEBL,LE,    ,BARCELONAEL PRAT                        ,E002044200  ,N41174900   
+BFN ,FABL,FA,    ,BLOEMFONTEIN                            ,E026181427  ,S29053764   
+BHX ,EGBB,EG,    ,BIRMINGHAM                              ,W001445290  ,N52271388   
+BJV ,LTFE,LT,    ,"MILAS,BODRUM                            ",E027405300  ,N37145000   
+BKK ,VTBS,VT,1,BANGKOK INTL                            ,E100362000  ,N13545200   
+BOH ,EGHH,EG,    ,BOURNEMOUTH                             ,W001503300  ,N50464800   
+BOM ,VABB,V ,    ,"MUMBAI,CHHATRAPATI SHIVAJI INTL         ",E072515753  ,N19052954   
+BRU ,EBBR,EB,    ,BRUSSELS NATIONAL                       ,E004290446  ,N50540502   
+BUD ,LHBP,LH,    ,"BUDAPEST,FERIHEGY                       ",E019154251  ,N47262158   
+BUS ,UGSB,UG,    ,BATUMI                                  ,E041135892  ,N41370000   
+BXN ,LTBV,LT,    ,IMSIK                                   ,E027400800  ,N37082400   
+BYN ,ZMBH,ZM,    ,BAYANKHONGOR                            ,E100421000  ,N46100300   
+CAI ,HECA,HE,    ,CAIRO INTL                              ,E031245000  ,N30064100   
+CAN ,ZGGG,Z ,    ,"GUANGZHOU,BAIYUN                        ",E113182400  ,N23232400   
+CBG ,EGSC,EG,    ,CAMBRIDGE                               ,E000103000  ,N52121800   
+CCU ,VECC,V ,    ,KOLKATANETAJI SUBHASH CHANDRA BOSE IN   ,E088264818  ,N22391420   
+CDG ,LFPG,LF,2A  ,"PARIS, CHARLES DE GAULLE                ",E002325215  ,N49003509   
+CEK ,USCC,U ,    ,"CHELYABINSK,BALANDINO                   ",E061301800  ,N55181800   
+CGN ,EDDK,ED,    ,COLOGNE  BONN                           ,E007083388  ,N50515730   
+CHR ,LFLX,LF,    ,"CHATEAUROUX,DEOLS                       ",E001431605  ,N46513713   
+CIT ,UAII,UA,    ,SHYMKENT                                ,E069283400  ,N42215400   
+CJJ ,RKTU,RK,    ,CHEONGJU                                ,E127293800  ,N36431400   
+CJU ,RKPC,RK,    ,JEJU INTL                               ,E126293400  ,N33304400   
+CMB ,VCBI,VC,    ,"COLOMBO,BANDARANAIKE INTL               ",E079530708  ,N07104868   
+CXR ,VVCR,VV,    ,CAM RANH                                ,E109133100  ,N11593500   
+DAD ,VVDN,VV,    ,DANANG INTL                             ,E108120100  ,N16023800   
+DEL ,VIDP,V ,1,"DELHI,INDIRA GANDHI INTL                ",E077064369  ,N28340742   
+DFW ,KDFW,K ,    ,"DALLAS  FT WORTH INTL,TX                ",W097021678  ,N32534858   
+DLC ,ZYTL,Z ,    ,"DALIAN,ZHOUSHUIZI                       ",E121321200  ,N38574800   
+DLM ,LTBS,LT,    ,"MUGLA,DALAMAN                           ",E028472900  ,N36424500   
+DMB ,UADD,UA,    ,DZHAMBUL                                ,E071181300  ,N42511300   
+DME ,UUDD,U ,    ,"MOSCOW,DOMODEDOVO                       ",E037542400  ,N55243000   
+DMK ,VTBD,VT,    ,DON MUANG                               ,E100362400  ,N13544500   
+DPS ,WADD,W ,    ,DEN PASARBALI INTL                      ,E115100900  ,S08445100   
+DUB ,EIDW,EI,    ,DUBLIN INTL                             ,W006161200  ,N53251700   
+DUR ,FADN,FA,    ,DURBAN INTL                             ,E031070953  ,S29364238   
+DUS ,EDDL,ED,    ,DUSSELDORF                              ,E006452632  ,N51165133   
+DWC ,OMDW,OM,    ,AL MAKTOUM INTL                         ,E055103174  ,N24550560   
+DXB ,OMDB,OM,1,DUBAI INTL                              ,E055215200  ,N25151000   
+DYU ,UTDD,UJ,    ,DUSHANBE                                ,E068493000  ,N38323600   
+DZN ,UAKD,UA,    ,ZHEZKAZGAN                              ,E067453300  ,N47431000   
+EGH ,EGHL,EG,    ,                                        ,W00102.0    ,N5111.00    
+EIN ,EHEH,EH,    ,EINDHOVEN AB                            ,E005222800  ,N51270100   
+EMA ,EGNX,EG,    ,EAST MIDLANDS                           ,W001194100  ,N52495200   
+ESB ,LTAC,LT,    ,"ANKARA,ESENBOGA                         ",E032594200  ,N40074100   
+EVN ,UDYZ,AM,    ,"YEREVAN,ZVARTNOTS                       ",E044234517  ,N40085019   
+EWR ,KEWR,K ,    ,"NEWARK INTL,NJ                          ",W074100720  ,N40413300   
+EXT ,EGTE,EG,    ,EXETER                                  ,W003245000  ,N50440400   
+FAR ,KFAR,K ,    ,"FARGO,ND,HECTOR INTL                    ",W096485675  ,N46551434   
+FCO ,LIRF,LI,    ,"ROME,FIUMICINO                          ",E012142000  ,N41480100   
+FDR ,KFDR,K ,    ,"FREDERICK MUN,OK                        ",W098590207  ,N34210754   
+FJR ,OMFJ,OM,    ,FUJAIRAH INTL                           ,E056192700  ,N25064400   
+FOC ,ZSFZ,Z ,    ,FUZHOUCHANGLE                           ,E119394200  ,N25560000   
+FRA ,EDDF,ED,1,"FRANKFURT, MAIN                         ",E008341364  ,N50015990   
+FRU ,UCFM,UY,1,"BISHKEK,MANAS                           ",E074284200  ,N43034200   
+FZO ,EGTG,EG,    ,FILTON                                  ,W002352700  ,N51311000   
+GIG ,SBGL,SB,    ,"RIO DE JANEIRO,GALEAO  ANTONIO C JOBIM I",W043150200  ,S22483600   
+GMP ,RKSS,RK,    ,SEOUL / GIMPO INTL                      ,E126475100  ,N37332500   
+GOI ,VAGO,V ,    ,GOADABOLIM NAVY                         ,E073495900  ,N15225000   
+GOJ ,UWGG,U ,    ,"NIZHNY NOVGOROD,STRIGINO                ",E043470000  ,N56134800   
+GRU ,SBGR,SB,    ,"SAO PAULO,GUARULHOS INTL.               ",W046282300  ,S23260800   
+GUW ,UATG,UA,    ,ATYRAU                                  ,E051491700  ,N47071900   
+GVA ,LSGG,LS,    ,GENEVA COINTRIN                         ,E006063400  ,N46141800   
+GYD ,UBBB,UB,1,"BAKU INTL, HEYDAR ALIYEV                ",E050024800  ,N40280300   
+HAJ ,EDDV,ED,    ,HANNOVER                                ,E009410068  ,N52273677   
+HAM ,EDDH,ED,    ,HAMBURG                                 ,E009591762  ,N53374940   
+HEL ,EFHK,EF,    ,"HELSINKI,VANTAA                         ",E024574800  ,N60190200   
+HER ,LGIR,LG,    ,IRAKLIONNIKOS KAZANTZAKIS               ,E025104900  ,N35202300   
+HFW ,EDDH,ED,    ,HAMBURG-FINKENWERDER                    ,E009591800  ,N53374900   
+HKG ,VHHH,VH,1,HONG KONG INTL                          ,E113545300  ,N22183200   
+HKT ,VTSP,VT,    ,PHUKET INTL                             ,E098183300  ,N08064500   
+HND ,RJTT,R ,    ,TOKYO (HANEDA) INTL                     ,E139465200  ,N35331200   
+HRK ,UKHH,UK,    ,KHARKIVOSNOVA                           ,E036172900  ,N49552900   
+IAD ,KIAD,K ,    ,"WASHINGTON DULLES INTL,VA               ",W077273580  ,N38565080   
+IAH ,KIAH,K ,    ,"HOUSTON,TX,G BUSH INTERCONTINENTAL  HOUS",W095202919  ,N29590396   
+ICN ,RKSI,RK,1,"SEOUL  INCHEON,INCHEON INTL             ",E126262100  ,N37274500   
+IEV ,UKKK,UK,    ,"KYIV,ZHULIANY                           ",E030270747  ,N50240652   
+IFN ,OIFM,OI,    ,"ESFAHAN,SHAHID BEHESHTI                 ",E051514600  ,N32450300   
+IKA ,OIIE,OI,    ,"TEHRAN, IMAM KHOMEINI INTL              ",E051090800  ,N35245800   
+INC ,ZLIC,Z ,    ,YINCHUAN                                ,E106233000  ,N38191800   
+ISB ,OPRN,OP,    ,"ISLAMABAD,CHACKLALA INTL                ",E073055546  ,N33370036   
+ISK ,VANR,V ,    ,NASIK                                   ,E073480000  ,N19570000   
+IST ,LTFM,LT,1,ISTANBUL AIRPORT                        ,E028450700  ,N41163100   
+ISU ,ORSU,OR,    ,SULAIMANIYAH INTERNATIONAL AIRPORT      ,E045185298  ,N35333888   
+JAI ,VIJP,V ,    ,JAIPUR                                  ,E075480870  ,N26492700   
+JAX ,KJAX,K ,    ,"JACKSONVILLE INTL,FL                    ",W081411630  ,N30293860   
+JED ,OEJN,OE,    ,"JEDDAH,KING ABDULAZIZ INTL              ",E039091975  ,N21405209   
+JER ,EGJJ,EG,    ,JERSEY                                  ,W002114341  ,N49122877   
+JFK ,KJFK,K ,    ,"NEW YORK,NY,KENNEDY INTL                ",W073464413  ,N40382310   
+JNB ,FAJS,FA,    ,JOHANNESBURG INTL                       ,E028143234  ,S26080130   
+JUL ,SPJL,SP,    ,"JULIACA,INCA MANCO CAPAC                ",W070092800  ,S15280100   
+KBL ,OAKB,OA,    ,KABUL                                   ,E069124500  ,N34335700   
+KBP ,UKBB,UK,D   ,"KYIV,BORYSPIL                           ",E030533600  ,N50204100   
+KEF ,BIKF,BI,    ,KEFLAVIK                                ,W022362000  ,N63590600   
+KGF ,UAKK,UA,    ,KARAGANDA                               ,E073201100  ,N49401700   
+KHH ,RCKH,RC,    ,KAOHSIUNG INTL                          ,E120210100  ,N22343700   
+KHI ,OPKC,OP,    ,"KARACHI,QUAID  E  AZAM INTL             ",E067094594  ,N24543081   
+KJA ,UNKL,U ,    ,KRASNOYARSK                             ,E092293600  ,N56101800   
+KOV ,UACK,UA,    ,KOKCHETAV                               ,E069354400  ,N53194300   
+KRG ,SYKS,SY,    ,KARASABAI                               ,W059331658  ,N04014073   
+KRR ,URKK,U ,    ,"KRASNODAR,PASHKOVSKY                    ",E039101200  ,N45020600   
+KSN ,UAUU,UA,    ,"KOSTANAY,NARIMANOVKA                    ",E063330100  ,N53122500   
+KTT ,EFKT,EF,    ,KITTILA                                 ,E024505300  ,N67415500   
+KUF ,UWWW,U ,    ,"SAMARA,KURUMOCH                         ",E050091800  ,N53300600   
+KUL ,WMKK,WM,1C  ,KUALA LUMPUR INTL SEPANG                ,E101415300  ,N02443600   
+KUT ,UGKO,UG,    ,KUTAISI                                 ,E042285777  ,N42103657   
+KVD ,UBBG,UB,    ,GYANDZHA                                ,E046190790  ,N40441804   
+KZN ,UWKD,U ,1A  ,KAZAN                                   ,E049165400  ,N55362400   
+KZO ,UAOO,UA,    ,KZYL ORDA                               ,E065353000  ,N44422200   
+LAC ,WMKL,WM,    ,PULAU LAYANG  LAYANG                    ,E1135100.0  ,N072400.0   
+LAS ,KLAS,K ,    ,"LAS VEGAS,NV,MC CARRAN INTL             ",W115090810  ,N36044820   
+LAX ,KLAX,K ,    ,"LOS ANGELES INTL,CA                     ",W118242578  ,N33563308   
+LBG ,LFPB,LF,    ,"PARIS,LE BOURGET                        ",E002262937  ,N48581029   
+LED ,ULLI,U ,1,"ST PETERSBURG,PULKOVO                   ",E030154800  ,N59480000   
+LGG ,EBLG,EB,    ,LIEGE                                   ,E005263357  ,N50381102   
+LGW ,EGKK,EG,    ,"LONDON, GATWICK                         ",W000112500  ,N51085300   
+LHE ,OPLA,OP,    ,LAHORE INTL                             ,E074241647  ,N31311762   
+LHR ,EGLL,EG,4,"LONDON, HEATHROW                        ",W000274100  ,N51283900   
+LHW ,ZLAN,Z ,    ,LANZHOU                                 ,W081334184  ,N31531792   
+LIG ,LFBL,LF,    ,"LIMOGES,BELLEGARDE                      ",E001104910  ,N45513875   
+LIS ,LPPT,LP,    ,LISBON                                  ,W009080251  ,N38462703   
+LIV ,    ,K ,    ,LIVENGOOD                               ,W14832000   ,N6531000    
+LPA ,GCLP,LE,    ,GRAN CANARIA                            ,W015231200  ,N27555500   
+LTN ,EGGW,EG,    ,"LONDON, LUTON                           ",W000220600  ,N51522900   
+MAD ,LEMD,LE,    ,"MADRID,BARAJAS                          ",W003333900  ,N40282000   
+MAN ,EGCC,EG,    ,MANCHESTER                              ,W002163000  ,N53211400   
+MCI ,    ,K ,    ,KANSAS CITY INTLMO                      ,W094425006  ,N39175138   
+MCO ,KMCO,K ,    ,"ORLANDO INTL,FL                         ",W081183238  ,N28254582   
+MCX ,URML,U ,    ,"MAKHACHKALA,UYTASH                      ",E047391200  ,N42490000   
+MED ,OEMA,OE,    ,"MADINAH,PR MOHAMMAD BIN ABDULAZIZ INTL  ",E039422013  ,N24330846   
+MFM ,VMMC,VM,    ,MACAU INTL                              ,E113352900  ,N22085800   
+MHD ,OIMM,OI,    ,"MASHHAD,SHAHID HASHEMI NEJAD INTL       ",E059384200  ,N36140300   
+MIA ,KMIA,K ,    ,"MIAMI INTL,FL                           ",W080172442  ,N25474331   
+MLE ,VRMM,VR,    ,MALE INTL                               ,E073314500  ,N04113000   
+MLI ,KMLI,K ,    ,MOLINEILQUAD  CITY INTL.                ,W090302707  ,N41265383   
+MQF ,USCM,U ,    ,MAGNITOGORSK                            ,E058452400  ,N53233600   
+MRU ,FIMP,FI,    ,MAURITIUS INTL                          ,E057405900  ,S20254800   
+MRV ,URMM,U ,    ,MINERALNYYE VODY                        ,E043050000  ,N44133000   
+MSE ,EGMH,EG,    ,MANSTON                                 ,E001204600  ,N51203200   
+MSP ,KMSP,K ,    ,"MINNEAPOLIS  ST PAUL INTL,MN            ",W093131836  ,N44525504   
+MSQ ,UMMS,UM,    ,MINSK  2                                ,E028015060  ,N53525687   
+MST ,EHBK,EH,    ,MAASTRICHT  AACHEN                      ,E005463700  ,N50545700   
+MUC ,EDDM,ED,    ,MUNICH                                  ,E011470991  ,N48211362   
+MXP ,LIMC,LI,    ,"MILAN, MALPENSA                         ",E008432300  ,N45374800   
+NBC ,KNBC,U ,    ,"BEAUFORT MCAS,SC                        ",E052054200  ,N55334800   
+NJC ,USNN,U ,    ,NIZHNEVARTOVSK                          ,E076285400  ,N60565400   
+NMA ,UTFN,UT,    ,NAMANGAN                                ,E071333000  ,N40590600   
+NRT ,RJAA,R ,    ,TOKYO INTL  NARITA                      ,E140230800  ,N35455500   
+NUE ,EDDN,ED,    ,NURNBERG                                ,E011044083  ,N49295532   
+NWI ,EGSH,EG,    ,NORWICH                                 ,E001165800  ,N52403300   
+OAI ,OAIX,OA,    ,BAGRAM                                  ,E069155411  ,N34564655   
+OMDW,OMDW,OM,    ,AL MAKTOUM INTL                         ,E055103174  ,N24550560   
+OME ,PAOM,K ,    ,"NOME,AK                                 ",W165264289  ,N64304393   
+OMS ,UNOO,U ,B   ,"OMSK,TSENTRALNY                         ",E073184200  ,N54580000   
+ORD ,KORD,K ,    ,"CHICAGO  OHARE INTL,IL                  ",W087542402  ,N41585393   
+ORY ,LFPO,LF,    ,"PARIS,ORLY                              ",E002224648  ,N48432381   
+OSH ,KOSH,K ,    ,"OSHKOSH,WI,WITTMAN REGL                 ",W088332535  ,N43590367   
+OSS ,UAFO,UY,    ,OSH                                     ,E072473600  ,N40363000   
+OVB ,UNNT,U ,B   ,"NOVOSIBIRSK,TOLMACHEVO                  ",E082355400  ,N55020000   
+PAE ,KPAE,K ,    ,EVERETTWASNOHOMISH CO                   ,W122165366  ,N47542515   
+PEK ,ZBAA,Z ,2,BEIJING CAPITAL                         ,E116354200  ,N40042400   
+PEN ,WMKP,WM,    ,PENANG INTL                             ,E100163600  ,N05175000   
+PEW ,OPPS,OP,    ,PESHAWAR INTL                           ,E071305250  ,N33593809   
+PGF ,LFMP,LF,    ,"PERPIGNAN,RIVESALTES                    ",E002521100  ,N42442700   
+PLX ,UASS,UA,    ,SEMIPALATINSK                           ,E080140400  ,N50210500   
+PPK ,UACP,UA,    ,PETROPAVLOVSK                           ,E069110600  ,N54462800   
+PRG ,LKPR,LK,    ,"PRAGUE,RUZYNE                           ",E014153600  ,N50060300   
+PUS ,RKPK,RK,    ,BUSANGIMHAE INTL                        ,E128561700  ,N35105000   
+PVG ,ZSPD,Z ,    ,"SHANGHAI,PUDONG                         ",E121472400  ,N31083000   
+PWQ ,UASP,UA,    ,PAVLODAR                                ,E077042600  ,N52114200   
+QLA ,EGHL,EG,    ,LASHAM                                  ,W001015600  ,N51110600   
+REC ,SBRF,SB,    ,"RECIFE,GUARARAPES INTL                  ",W034552200  ,S08073500   
+REN ,UWOO,U ,    ,"ORENBURG,TSENTRALNY                     ",E055273000  ,N51474200   
+RGN ,VYYY,VY,    ,YANGON INTL                             ,E096075966  ,N16542616   
+RHO ,LGRP,LG,    ,"RODOS,DIAGORAS                          ",E028051000  ,N36241900   
+RIX ,EVRA,EV,    ,RIGA INTL                               ,E023581600  ,N56552500   
+RKT ,OMRK,OM,    ,RAS AL KHAIMAH INTL                     ,E055562000  ,N25364800   
+ROV ,URRR,U ,    ,ROSTOV  NA  DONU                        ,E039490600  ,N47153000   
+RSE ,    ,Y ,    ,SYDNEY                                  ,E1511600.0  ,S335200.0   
+RTM ,EHRD,EH,    ,ROTTERDAM                               ,E004261400  ,N51572500   
+SAB ,TNCS,TN,    ,SABA                                    ,W063141700  ,N17380800   
+SAW ,LTFJ,LT,    ,"ISTANBUL, SABIHA GOKCEN                 ",E029183300  ,N40535400   
+SCO ,UATE,UA,    ,AKTAU                                   ,E051053100  ,N43513600   
+SDU ,SBRJ,SB,    ,"RIO DE JANEIRO,SANTOS DUMONT            ",W043094600  ,S22543700   
+SEA ,KSEA,K ,    ,"SEATTLE  TACOMA INTL,WA                 ",W122184240  ,N47265960   
+SEL ,RKSS,RK,    ,"SEOUL, KIMPO INTL                       ",E1260800.0  ,N370554.0   
+SEN ,EGMC,EG,    ,SOUTHEND                                ,E000414400  ,N51341700   
+SFX ,    ,SV,    ,SAN FELIX                               ,W0623800.0  ,N082100.0   
+SGC ,USRR,U ,    ,SURGUT                                  ,E073241200  ,N61203600   
+SGN ,VVTS,VV,    ,"HOCHIMINH,TANSONNHAT                    ",E106393900  ,N10491400   
+SHA ,ZSSS,Z ,    ,"SHANGHAI,HONGQIAO                       ",E121200000  ,N31120000   
+SHJ ,OMSJ,OM,    ,SHARJAH INTL                            ,E055305800  ,N25194500   
+SID ,GVAC,GV,    ,"SAL,AMILCAR CABRAL                      ",W022565600  ,N16443100   
+SIN ,WSSS,WS,    ,"SINGAPORE,CHANGI                        ",E103592160  ,N01213316   
+SJK ,SBSJ,SB,    ,SAO JOSE DOS CAMPOS                     ,W045521600  ,S23134400   
+SKD ,UTSS,UT,    ,SAMARKAND                               ,E066590000  ,N39420000   
+SKG ,LGTS,LG,    ,"THESSALONIKI,MAKEDONIA                  ",E022581530  ,N40311100   
+SNN ,EINN,EI,    ,SHANNON                                 ,W008552934  ,N52420712   
+SOF ,LBSF,LB,    ,SOFIA                                   ,E023243000  ,N42414200   
+SSH ,HESH,HE,    ,SHARM EL SHEIKH INTL                    ,E034233600  ,N27584300   
+STE ,KSTE,K ,    ,                                        ,W089314902  ,N44324249   
+STN ,EGSS,EG,    ,"LONDON, STANSTED                        ",E000140600  ,N51530600   
+SVO ,UUEE,U ,E   ,"MOSCOW,SHEREMETYEVO                     ",E037245400  ,N55581800   
+SVX ,USSS,U ,B   ,"YEKATERINBURG,KOLTSOVO                  ",E060481800  ,N56443600   
+SXF ,EDDB,ED,    ,"BERLIN,SCHONEFELD                       ",E013311423  ,N52224275   
+SYX ,ZJSY,Z ,    ,"SANYA,PHOENIX INTL                      ",E109244800  ,N18180600   
+SZB ,WMSA,WM,    ,SUBANG SULTAN ABDUL AZIZ SHAH           ,E101325300  ,N03075200   
+TAS ,UTTT,UT,2,"TASHKENT,YUZHNY                         ",E069165400  ,N41153000   
+TBS ,UGTB,UG,1,"TBILISI,LOCHINI                         ",E044571725  ,N41400896   
+TDK ,UAAT,UA,    ,TALDY  KURGAN                           ,E078263600  ,N45072000   
+TES ,    ,HH,    ,TESSENEI                                ,E0364100.0  ,N150700.0   
+THR ,OIII,OI,    ,"TEHRAN,MEHRABAD INTL                    ",E051185300  ,N35412000   
+TJM ,USTR,U ,    ,"TYUMEN,ROSCHINO                         ",E065192748  ,N57112244   
+TJU ,UTDK,UJ,    ,KULYAB                                  ,E069482400  ,N37591800   
+TLL ,EETN,EE,    ,TALLINN                                 ,E024495700  ,N59244800   
+TLS ,LFBO,LF,    ,"TOULOUSE,BLAGNAC                        ",E001220428  ,N43380646   
+TLV ,LLBG,LL,    ,"TEL AVIV,BEN GURION                     ",E034523700  ,N32003400   
+TSA ,RCSS,RC,    ,"TAIPEI,SUNGSHAN                         ",E121330900  ,N25041100   
+TSE ,UACC,UA,    ,NUR-SULTAN                              ,E071280100  ,N51012000   
+TSN ,ZBTJ,Z ,    ,"TIANJIN,BINHAI                          ",E117204800  ,N39073000   
+TXL ,EDDT,ED,    ,"BERLIN,TEGEL                            ",E013171576  ,N52333487   
+TYC ,UAFL,UY,    ,TAMCHY                                  ,E076424800  ,N42351800   
+UAI ,WPDB,W ,    ,SUAI                                    ,E125171270  ,S09181430   
+UFA ,UWUU,U ,    ,UFA                                     ,E055523000  ,N54332400   
+UKK ,UASK,UA,    ,UST  KAMENOGORSK                        ,E082293900  ,N50021000   
+ULN ,ZMUB,ZM,    ,"ULAANBAATAR,BUYANT  UKHAA               ",E106460300  ,N47503300   
+ULY ,UWLW,U ,    ,"ULYANOVSK,VOSTOCHNY                     ",E048481800  ,N54240600   
+URA ,UARR,UA,    ,URALSK                                  ,E051323500  ,N51090300   
+URC ,ZWWW,Z ,3,"URUMQI,DIWOPU                           ",E087283600  ,N43541800   
+UTP ,VTBU,VT,    ,"RAYONG,U  TAPHAO INTL                   ",E101001770  ,N12404660   
+VKO ,UUWW,U ,    ,"MOSCOW,VNUKOVO                          ",E037162400  ,N55360000   
+VNO ,EYVI,EY,    ,VILNIUS INTL                            ,E025171609  ,N54381347   
+VQQ ,KVQQ,K ,    ,CECIL FIELD                             ,W081523601  ,N30137260   
+WAW ,EPWA,EP,    ,"WARSAW,OKECIE                           ",E020580164  ,N52095670   
+WOE ,EHWO,EH,    ,WOENSDRECHT AB                          ,E004203170  ,N51265640   
+XFW ,EDHI,ED,    ,"HAMBURG,FINKENWERDER                    ",E009500771  ,N53320744   
+XMN ,ZSAM,Z ,    ,"XIAMEN,GAOQI                            ",E118073000  ,N24323600   
+XRY ,LEJR,LE,    ,JEREZ AB                                ,W006033600  ,N36444100   
+XSP ,WSSL,WS,    ,"SINGAPORE,SELETAR                       ",E103520355  ,N01250102   
+YUL ,CYUL,CY,    ,"MONTREAL INTL (DORVAL),QC               ",W073442736  ,N45281367   
+YXX ,CYXX,CY,    ,"ABBOTSFORD,BC                           ",W122213584  ,N49013096   
+YYZ ,CYYZ,CY,    ,"TORONTO  PEARSON INTL,ON                ",W079375000  ,N43403800   
+ZGC ,ZLLL,Z ,    ,LANZHOU ZHONGCHUAN                      ,E103371800  ,N36310000   
+ZRH ,LSZH,LS,    ,ZURICH                                  ,E008325300  ,N47273000   
+RMI ,LIPR,LI,    ,RIMINI MIL                              ,E012363390  ,N44010990   
+AVR ,LPAR,LP,    ,ALVERCA                                 ,W009014200  ,N38530600   
+HET ,ZBHH,Z ,    ,"HOHHOT,BAITA                            ",E111493000  ,N40510600   
+TSR ,LRTR,LR,    ,"TIMISOARA,GIARMATA                      ",E021201634  ,N45483540   
+OPO ,LPPR,LP,    ,"PORTO,FRANCISCO SA CARNEIRO             ",W008404063  ,N41140769   
+XIY ,ZLXY,Z ,    ,"XIAN,XIANYANG                           ",E108450000  ,N34264200   
+CSX ,ZGHA,Z ,    ,"CHANGSHA,HUANGHUA                       ",E113131800  ,N28111200   
+TEQ ,LTBU,LT,    ,TEKIRDAG  CORLU                         ,E027542300  ,N41074600   
+HAK ,ZJHK,Z ,    ,Haikou Meilan International Airport     ,            ,            
+CGO ,ZHCC,Z ,    ,"ZHENGZHOU,XINZHENG                      ",E113503000  ,N34310600   
+WUH ,ZHHH,Z ,    ,"WUHAN,TIANHE                            ",E114123600  ,N30470600   
+BAH ,OBBI,OB,    ,BAHRAIN INTL                            ,E050380100  ,N26161500   
+LJU ,LJLJ,LJ,    ,LJUBLJANA                               ,E014272177  ,N46132816   
+USM ,VTSM,VT,    ,KOH SAMUI                               ,E100034500  ,N09325700   
+CNX ,VTCC,VT,    ,CHIANG MAI INTL                         ,E098574600  ,N18461700   
+KBV ,VTSG,VT,    ,KRABI                                   ,E098591955  ,N08054549   
+PNH ,VDPP,VD,    ,"PHNOM PENH,POCHENTONG INTL              ",E104503800  ,N11324700   
+EKB ,UASB,UA,    ,EKIBASTUZ                               ,E075131200  ,N51352400   
+AYK ,UAUR,UA,    ,ARKALYK                                 ,E066573600  ,N50193000   
+BXH ,UAAH,UA,    ,BALKHASH                                ,E075001900  ,N46533800   
+ZIA ,UUBW,U ,    ,ZHUKOVSKY INT AIRPORT                   ,E038090600  ,N55331200   
+OZP ,LEMO,LE,    ,"SEVILLE,MORON AB                        ",W005365740  ,N37102970   
+FAO ,LPFR,LP,    ,FARO                                    ,W007575727  ,N37005193   
+CWB ,SBCT,SB,    ,"CURITIBA,AFONSO PENA                    ",W049103200  ,S25315200   
+NVT ,SBNF,SB,    ,NAVEGANTES  ITAJAI                      ,W048390300  ,S26524300   
+SSA ,SBSV,SB,    ,"SALVADOR,DEP. L. E. MAGALHAES INTL      ",W038192100  ,S12543100   
+BSB ,SBBR,SB,    ,"BRASILIA,PRES JUSCELINO KUBITSCHEK INTL ",W047551500  ,S15520900   
+FOR ,SBFZ,SB,    ,"FORTALEZA,PINTO MARTINS INTL            ",W038315600  ,S03463300   
+BYJ ,LPBJ,LP,    ,BEJA                                    ,W009014200  ,N38530600   
+PSE ,TJPS,TJ,    ,"PONCE,MERCEDITA                         ",W066334690  ,N18002990   
+CWL ,EGFF,EG,    ,CARDIFF                                 ,W003203600  ,N51234800   
+BTS ,LZIB,LZ,    ,"BRATISLAVA,M.R. STEFANIK                ",E017124582  ,N48101222   
+XXX ,    ,UA,    ,                                        ,            ,            
+MEX ,MMMX,MM,    ,"MEXICO CITY,LIC BENITO JUAREZ INTL      ",W099041910  ,N19261103   
+FLG ,KFLG,K ,    ,"FLAGSTAFF PULLIAM,AZ                    ",W111400930  ,N35082510   
+GYR ,KGYR,K ,    ,GOODYEAR                                ,W112222804  ,N33252541   
+GDX ,UHMM,U ,    ,"MAGADAN,SOKOL                           ",E150430600  ,N59543600   
+ANC ,PANC,K ,    ,"STEVENS ANCHORAGE INTL,AK               ",W149594690  ,N61102770   
+MCT ,OOMS,OO,    ,"MUSCAT,SEEB INTL                        ",E058165447  ,N23353429   
+BLL ,EKBI,EK,    ,BILLUND                                 ,E009090640  ,N55442516   
+BZG ,EPBY,EP,    ,"BYDGOSZCZ,SZWEDEROWO                    ",E017583961  ,N53054849   
+AEY ,BIAR,BI,    ,AKUREYRI                                ,W018042000  ,N65393100   
+EGS ,BIEG,BI,    ,EGILSSTADIR                             ,W014240500  ,N65170000   
+PHX ,KPHX,K ,    ,"PHOENIX SKY HARBOR INTL,AZ              ",W112004170  ,N33260340   
+TUS ,KTUS,K ,    ,"TUCSON INTL,AZ                          ",W110562770  ,N32065790   
+AZA ,KIWA,K ,    ,                                        ,            ,            
+BGR ,KBGR,K ,    ,"BANGOR INTL,ME                          ",W068494130  ,N44482680   
+ACH ,LSZR,LS,    ,"ST GALLEN,ALTENRHEIN                    ",E009334300  ,N47290600   
+ISL ,LTBA,LT,    ,ATATURK ISTANBUL                        ,E108120100  ,N16023800   
+LCA ,LCLK,LC,    ,LARNACA INTL                            ,E033374900  ,N34524400   
+LXR ,HELX,HE,    ,LUXOR INTL                              ,E032422300  ,N25401500   
+HRG ,HEGN,HE,    ,HURGHADA INTL                           ,E033480300  ,N27104300   
+ASW ,HESN,HE,    ,ASWAN INTL                              ,E032491200  ,N23575200   
+TZX ,LTCG,LT,    ,TRABZON                                 ,E039450700  ,N40594500   
+DMM ,OEDF,OE,    ,"DAMMAM,KING FAHD INTL                   ",E049475244  ,N26281631   
+TIF ,OETF,OE,    ,TAIF                                    ,E040323969  ,N21290001   
+RVN ,EFRO,EF,    ,ROVANIEMI                               ,E025495100  ,N66334200   
+MMK ,ULMM,U ,    ,MURMANSK                                ,E032444800  ,N68465400   
+TYN ,ZBYN,Z ,    ,"TAIYUAN,WUSU                            ",E112374800  ,N37445400   
+KWI ,OKBK,OK,    ,KUWAIT INTL                             ,E047584743  ,N29133707   
+AGP ,LEMG,LE,    ,MALAGA                                  ,W004295715  ,N36402990   
+BLR ,VOBL,V ,    ,BANGALORE                               ,E077395250  ,N12570780   
+HYD ,VOHS,V ,    ,RAJIV GANDHI INTL                       ,E078254400  ,N17142600   
+COK ,VOCI,V ,    ,COCHIN INTL                             ,E076242500  ,N10091400   
+SOC ,WRSQ,W ,    ,"SOLO,ADI SUMARMO WIRYOKUSUMO            ",E110450200  ,S07304900   
